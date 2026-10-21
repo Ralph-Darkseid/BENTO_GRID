@@ -6,6 +6,7 @@ A responsive bento grid layout built with CSS Grid and Flexbox.
 [View Live Site](https://ralph-darkseid.github.io/BENTO_GRID/)
 
 ## Built With
+
 - HTML5 - Semantic markup
 - CSS Grid - For desktop bento layout
 - Flexbox - For content inside cards
