@@ -1,8 +1,18 @@
-## Concepts used
-- HTML sections, headings, paragraphs, and images
-- Classes to select elements in CSS
-- CSS Grid for the desktop layout
-- Flexbox to arrange items inside cards
-- Media queries to adjust the layout for smaller screens
+# BENTO_GRID
 
-Preview the page and compare it with the design references before submitting.
+A responsive bento grid layout built with CSS Grid and Flexbox.
+
+## Live Preview
+[View Live Site](https://ralph-darkseid.github.io/BENTO_GRID/)
+
+## Built With
+- HTML5 - Semantic markup
+- CSS Grid - For desktop bento layout
+- Flexbox - For content inside cards
+- Media Queries - Responsive design
+
+## Design
+Desktop and mobile layouts included in `/design` folder.
+
+## Author
+- GitHub - [@Ralph-Darkseid](https://github.com/Ralph-Darkseid).
